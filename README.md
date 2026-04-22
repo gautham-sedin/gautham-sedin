@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Gautham</h1>
 <h3 align="center">A Feature-to-Database Architect from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautham-sedin&label=Profile%20views&color=0e75b6&style=flat" alt="gautham-sedin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gautham-sedin&label=Profile%20views&color=0e75b6&style=flat" alt="gautham-sedin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin" alt="gautham-sedin" /></a> </p>
 
