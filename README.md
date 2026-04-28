@@ -19,15 +19,15 @@
 
 - 🌱 I’m currently diving-deep into **Angular, Spring-Boot, DevOps, AWS Cloud**
 
-- 👨‍💻 All of my deliverables are available at [https://personal-portfolio-two-sooty.vercel.app/](https://personal-portfolio-two-sooty.vercel.app/)
+- 👨‍💻 All of my deliverables are available at [Portfolio](https://personal-portfolio-two-sooty.vercel.app/)
 
-- 📝 I rarely write articles on [https://medium.com/@gauthamramesh93442](https://medium.com/@gauthamramesh93442)
+- 📝 I rarely write articles on [Medium](https://medium.com/@gauthamramesh93442)
 
 - 💬 Throw at me any discussions about **React, Next.js, Node.js,**
 
 - 📫 Drop at my mailbox at **gauthamramesh93442@gmail.com**
 
-- 📄 Know more about my expertise [https://drive.google.com/file/d/1aBl2IYIgt_bExuDYE9riS3UN0WEqegKS/view?usp=drive_link](https://drive.google.com/file/d/1aBl2IYIgt_bExuDYE9riS3UN0WEqegKS/view?usp=drive_link)
+- 📄 Know more about my expertise [Resume](https://drive.google.com/file/d/1aBl2IYIgt_bExuDYE9riS3UN0WEqegKS/view?usp=drive_link)
 
 # 🛠 Tech Stack
 
