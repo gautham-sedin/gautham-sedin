@@ -84,9 +84,8 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gautham-sedin&show_icons=true&locale=en&layout=compact" />
-<a href="https://github.com/gautham-sedin/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin" alt="gautham-sedin"/></a></p>
-<a href="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=gruvbox"></a> </p>
-
 <img src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&locale=en" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-sedin&" />
+  <a href="https://github.com/gautham-sedin/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin" alt="gautham-sedin"/></a></p>
+  <a href="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=gruvbox"></a> </p>
 </div>
