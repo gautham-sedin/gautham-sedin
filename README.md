@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <br/>
+</div>
+
+## About Me
 
 - 🔭 I’m currently engineering seamless movement from backend to UI on **CatalyX - Sedin Product**
 
