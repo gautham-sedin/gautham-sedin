@@ -94,5 +94,5 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&locale=en" />
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-sedin&" />
   <!-- Github Trophies -->
-  <a href="https://github.com/gautham-sedin/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=onedark" alt="gautham-sedin"/></a></p>
+  <a href="https://github.com/gautham-sedin/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=radical" alt="gautham-sedin"/></a></p>
 </div>
