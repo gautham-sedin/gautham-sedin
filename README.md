@@ -67,7 +67,7 @@
 <!-- RIGHT SIDE: GIF -->
 <td align="center" width="40%">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" 
+    src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" 
     width="400"
   />
 </td>
