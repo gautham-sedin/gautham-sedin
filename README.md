@@ -89,9 +89,10 @@
 # 📊 GitHub Stats
 
 <div align="center">
+  <!-- Github Analytics -->
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautham-sedin&show_icons=true&locale=en&layout=compact" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&locale=en" />
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-sedin&" />
-  <a href="https://github.com/gautham-sedin/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin" alt="gautham-sedin"/></a></p>
-  <a href="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=gruvbox"></a> </p>
+  <!-- Github Trophies -->
+  <a href="https://github.com/gautham-sedin/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=onedark" alt="gautham-sedin"/></a></p>
 </div>
