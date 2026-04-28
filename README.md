@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently engineering seamless movement from backend to UI on **CatalyX - Sedin Product**
 - 🌱 I’m currently diving-deep into **Angular, Spring-Boot, DevOps, AWS Cloud**
-- - 💬 Throw at me any discussions about **React, Next.js, Node.js,**
+- 💬 Throw at me any discussions about **React, Next.js, Node.js,**
 - 📫 Drop at my mailbox at **gauthamramesh93442@gmail.com**
 - 👨‍💻 All of my deliverables are available at [Portfolio](https://personal-portfolio-two-sooty.vercel.app/)
 - 📝 I rarely write articles on [Medium](https://medium.com/@gauthamramesh93442)
