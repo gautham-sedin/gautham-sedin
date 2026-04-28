@@ -1,15 +1,22 @@
-<h1 align="center">Hey there 👋, I'm Gautham</h1>
-<h3 align="center">A Feature-to-Database Architect from India</h3>
+<!-- 🔥 Typing Heading -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=32&center=true&vCenter=true&width=700&repeat=false&duration=4000&lines=Hey+there👋!+Gautham+here!😉" />
+<br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gautham-sedin&label=Profile%20views&color=0e75b6&style=flat" alt="gautham-sedin" /> </p>
-
+<!-- ⚡ Typing Subheading -->
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+AWS;Building+Scalable+Systems" />
+<br/>
+<!-- 🏷️ Animated Badges -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br/>
 <p align="center"> <a href="https://github.com/gautham-sedin/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin" alt="gautham-sedin" />
 </a></p>
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=gruvbox"></a> </p>
 
-
-
+## About
 
 - 🔭 I’m currently engineering seamless movement from backend to UI on **CatalyX - Sedin Product**
 
