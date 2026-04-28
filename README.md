@@ -80,18 +80,13 @@
 
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3>
+# 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gautham-sedin&show_icons=true&locale=en&layout=compact" />
-
-<br/><br/>
+<a href="https://github.com/gautham-sedin/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin" alt="gautham-sedin"/></a></p>
+<a href="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=gruvbox"></a> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&locale=en" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-sedin&" />
-
 </div>
