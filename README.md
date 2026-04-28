@@ -90,9 +90,11 @@
 
 <div align="center">
   <!-- Github Analytics -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautham-sedin&show_icons=true&locale=en&layout=compact" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&locale=en" />
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-sedin&" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautham-sedin&show_icons=true&locale=en&layout=compact&theme=radical" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&locale=en&theme=radical" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-sedin&theme=radical" />
+</div>
+</ br>
   <!-- Github Trophies -->
   <a href="https://github.com/gautham-sedin/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=radical" alt="gautham-sedin"/></a></p>
 </div>
